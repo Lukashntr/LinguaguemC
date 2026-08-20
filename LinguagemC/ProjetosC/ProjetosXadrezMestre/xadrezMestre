@@ -8,7 +8,7 @@
 
 
 // função para chamar o movimento da rainha 
-void MoverRainha(int x){
+void MoverRainha(int x){ 
 
     if(x == 0){ // quando os movimentos acabarem vai retornar a seguinte mensagem 
         printf(" Rainha moveu-se em linha reta para a esquerda ");
